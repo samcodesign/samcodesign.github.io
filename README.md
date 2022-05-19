@@ -1,2 +1,0 @@
-# samcodesign.github.io
-portfolio
